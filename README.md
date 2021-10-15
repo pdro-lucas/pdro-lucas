@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pdro-lucas
+- 🌱 I’m currently learning Python for data sciece
+- 📫 How to reach me? Send email for pdrolucas.contato@gmail.com
