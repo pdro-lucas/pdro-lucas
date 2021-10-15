@@ -10,7 +10,7 @@
   A <b>passionate </b>self-learner <b>obsessed</b> with programming and knowledge&nbsp;
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" />
 
-  <br /><br/>
+  <br />
 
   <b><i align="center">Thought : "A person who never made a mistake never tried anything new”</i></b>
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /><br />
