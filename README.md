@@ -56,38 +56,38 @@
   - 🌈&nbsp; Fun fact : *I'm very perfectionist and creative*<br />
 
 
-  ### GitHub Info
-  <!-- Git activity -->
-  <details>
-    <summary>
-        <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />&nbsp;<b>Git Activity</b>
-    </summary>
+### GitHub Info
+<!-- Git activity -->
+<details>
+  <summary>
+      <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />&nbsp;<b>Git Activity</b>
+  </summary>
 
-    <br/>
+  <br/>
 
-    <div align="center">
-
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-    ![pdro-lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=github_dark)
+  <div align="center">
 
 
-    </div>
-  </details>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![pdro-lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=github_dark)
 
 
-  <!-- Git trophies -->
-  <details>
-    <summary>
-      <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<b>Git profile Trophies</b>
-    </summary>
+  </div>
+</details>
 
-    <br/>
 
-    <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" />
-    </div>
-  </details>
+<!-- Git trophies -->
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<b>Git profile Trophies</b>
+  </summary>
+
+  <br/>
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" />
+  </div>
+</details>
 
 
   <!-- Technologies and Languages Section -->
