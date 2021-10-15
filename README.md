@@ -64,14 +64,14 @@
     alt="Git" />&nbsp;<i><b>Git Activeness</b></i>
 </p>
 
-<a>
+<a src="https://github.com/pdro-lucas/pdro-lucas/README.md">
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/wakatime?username=pdrolucas&show_icons=true&locale=en&layout=compact&theme=github_dark"
     alt="pedro"
     width="450" />
 </a>
-<a>
+<a src="https://github.com/pdro-lucas/pdro-lucas/README.md">
   <img
     align="right"
     src="https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&locale=en&layout=compact&theme=github_dark"
