@@ -14,7 +14,6 @@
 
   <b><i align="center">Thought : "A person who never made a mistake never tried anything new”</i></b>
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /><br />
-  
   <img  align="center" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </div>
 
@@ -32,49 +31,25 @@
 <br/>
 
 
-<!-- Technologies and Languages Section -->
-<h2 align="center">
-Technologies and Languages </h2>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![ViteJS](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=FFD62E)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&&logo=sublime-text&logoColor=important)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?&logo=googlecolab&color=525252)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
-![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?&logo=stack-overflow&logoColor=white)
-![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?&logo=dribbble&logoColor=white)
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?&logo=HackerRank&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?&logo=Kaggle&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849be?&logo=Insomnia&logoColor=white)
-
-</div>
-
-
-<br/>
-
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <br/>
 
 
-### GitHub Info
+<!-- About me Section -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=5ADBFF&size=30&lines=♨︎+I+need+coffee;▷+Let's+go+again;⚛︎+Go+to+the+next+level!;✎+Learning...;✇+Robots?;☺︎+What+you+are+doing?;✦+The+universe+is+awesome)](https://git.io/typing-svg)
 
+
+### Here's some fun facts about me:
+- 😊&nbsp; Pronouns: ***He/His***<br />
+- 📚&nbsp; I’m currently learning about **Machine Learning**<br />
+- 🔍&nbsp; I’m looking to collaborate with any **Open - Source data science projects**<br />
+- 👻&nbsp; Ask from me anything you want, If I am alive I will answer within seconds<br />
+- 🌈&nbsp; Fun fact : *I'm very perfectionist and creative*<br />
+
+
+### GitHub Info
 <!-- Git activity -->
 <details>
   <summary>
@@ -108,19 +83,32 @@ Technologies and Languages </h2>
 </details>
 
 
-<!-- About me Section -->
-<details>
-  <summary>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" />
-    <b>About me:<b>
-  </summary>
+<!-- Technologies and Languages Section -->
+### Technologies and Languages
   
-  <br />
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+  ![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+  ![ViteJS](https://img.shields.io/badge/Vite-B73BFE?logo=vite&logoColor=FFD62E)
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)
+  ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+  ![ExpressJS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+  ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&&logo=sublime-text&logoColor=important)
+  ![Colab](https://img.shields.io/badge/Colab-F9AB00?&logo=googlecolab&color=525252)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&&logo=Jupyter&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
+  ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?&logo=stack-overflow&logoColor=white)
+  ![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?&logo=dribbble&logoColor=white)
+  ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?&logo=HackerRank&logoColor=white)
+  ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?&logo=Kaggle&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?&logo=Insomnia&logoColor=white)
 
-  ✔ Callme: ***He/His*** 😊 <br />
-  ✔ I’m currently learning about **Machine Learning** 📚<br />
-  ✔ I’m looking to collaborate with any **Open - Source data science projects** 🔍<br />
-  ✔ Ask from me anything you want, If I am alive I will answer within seconds 👻<br />
-  ✔ Fun fact : *I'm very perfectionist and creative* 🌈<br />
-
-</details>
+</div>
