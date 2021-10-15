@@ -53,7 +53,7 @@
 ✔ I’m looking to collaborate with any **Open - Source data science projects** 🔍<br />
 ✔ Ask from me anything you want, If I am alive I will answer within seconds
 👻<br />
-✔ Fun fact : *I'm very perfectionist and creative* 🌈<br /><br /><br /><br />
+✔ Fun fact : *I'm very perfectionist and creative* 🌈<br />
 
 <hr />
 
