@@ -69,14 +69,14 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/wakatime?username=pdrolucas&show_icons=true&locale=en&layout=compact&theme=github_dark"
     alt="pedro"
-    width="410" />
+    width="390" />
 </a>
 <a src="https://github.com/pdro-lucas/pdro-lucas/README.md">
   <img
     align="right"
     src="https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&locale=en&layout=compact&theme=github_dark"
     alt="pedro"
-    width="410" />
+    width="390" />
 </a>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
