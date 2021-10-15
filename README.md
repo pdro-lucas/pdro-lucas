@@ -2,22 +2,19 @@
   Hi
   <img
     src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
-    width="30px" />, I am Pedro Lucas
+    width="30px" />, I am Pedro
 </h1>
 
 <p align="center">
   <em>
+    Hi there,&nbsp;
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" />
-    Hi there, i'm Pedro, and my focus is to be a programmer willing to learn, share new
-    ideas and beat good challenges.<br />
+    &nbsp;i'm Pedro, and my focus is to be a programmer willing to learn, share new ideas and beat good challenges.<br />
     A <b>passionate </b>self-learner <b>obsessed</b> with programming and knowledge&nbsp;
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" />
   </em>
-
+  
   <br />
-  <img
-    src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif"
-    width="50" />
   <b><i align="center">Thought : "A person who never made a mistake never tried anything new”</i></b>
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
@@ -30,7 +27,7 @@
   <img src="https://img.shields.io/badge/Languages-Python%2C%20JS-FF5714" />
 </p>
 
-<br /><br />
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img
   align="right"
