@@ -66,6 +66,8 @@
   <br/>
 
   <div align="center">
+    
+  <br/><br/>
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -73,6 +75,8 @@
 
 
   </div>
+  
+  <br/><br/>
 </details>
 
 
@@ -82,11 +86,13 @@
     <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<b>Git profile Trophies</b>
   </summary>
 
-  <br/>
+  <br/><br/>
 
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" />
   </div>
+  
+  <br/><br/>
 </details>
 
 
