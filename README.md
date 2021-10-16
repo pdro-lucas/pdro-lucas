@@ -59,9 +59,11 @@
 
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git activity -->
-  
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />&nbsp;<b>Git Activity</b>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30px" alt="Git" />&nbsp;
+  <b>Git Activity</b>
+</div>
 <br/>
 
 <div align="center">
@@ -76,10 +78,8 @@
 <br/>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git trophies -->
-  
-<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<b>Git profile Trophies</b>
-
-<br/>
+ 
+<br/><br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" />
@@ -90,7 +90,11 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!---------------------------------------------------------------------------------------------------------------------------------------- Technologies and Languages Section -->
- **Technologies and Languages**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />&nbsp;
+  <b>Technologies and Languages</b>
+</div>
 
 <br/>
 
