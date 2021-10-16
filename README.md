@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I am Pedro
 </h1>
 
-
 <div>  
   Hi there,&nbsp;
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" />
@@ -17,9 +16,9 @@
 
 
 <!-- Shilds Info Section-->
-[![Twitter Badge](https://img.shields.io/badge/-@pdrolucas_dev-C7EF00?style=flat-square&labelColor=C7EF00&logo=twitter&logoColor=black&link=https://twitter.com/pdrolucas_dev)](https://twitter.com/pdrolucas_dev) 
-[![Linkedin Badge](https://img.shields.io/badge/-PedroLucas-C7EF00?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-pdrolucas.contato@gmail.com-C7EF00?style=flat-square&logo=Gmail&logoColor=black&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@pdrolucas_dev-5ADBFF?style=flat-square&labelColor=5ADBFF&logo=twitter&logoColor=black&link=https://twitter.com/pdrolucas_dev)](https://twitter.com/pdrolucas_dev) 
+[![Linkedin Badge](https://img.shields.io/badge/-PedroLucas-5ADBFF?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-pdrolucas.contato@gmail.com-5ADBFF?style=flat-square&logo=Gmail&logoColor=black&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 
 <br/>
