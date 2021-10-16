@@ -51,7 +51,7 @@
 <br/>
   
 <!---------------------------------------------------------------------------------------------------------------------------------------- Technologies and Languages Section -->
-### Technologies and Languages
+### Tools and Languages
 
 <br/>
 
