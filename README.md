@@ -39,6 +39,8 @@
 
 
   ### Here's some fun facts about me:
+  <br/>
+  
   - 😊&nbsp; Pronouns: ***He/His***<br />
   - 📚&nbsp; I’m currently learning about **Machine Learning**<br />
   - 🔍&nbsp; I’m looking to collaborate with any **Open - Source data science projects**<br />
