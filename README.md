@@ -3,12 +3,11 @@
 </h1>
 
 
-<div>
-  <img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-  
+<div>  
   Hi there,&nbsp;
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" />
   &nbsp;i'm Pedro, and my focus is to be a programmer willing to learn, share new ideas and beat good challenges.
+  
   A <b>passionate </b>self-learner <b>obsessed</b> with programming and knowledge&nbsp;
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" />
 
@@ -93,7 +92,6 @@
   <br/><br/>
 </details>
 
-
   <!-- Technologies and Languages Section -->
   ### Technologies and Languages
 
@@ -124,5 +122,3 @@
 
   </div>
 </detail>
-
-<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gi
