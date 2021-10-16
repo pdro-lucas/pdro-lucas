@@ -17,13 +17,9 @@
 
 
 <!-- Shilds Info Section-->
-<div>
-  <img src="https://img.shields.io/badge/Age-18-C7EF00" />
-  <img src="https://img.shields.io/badge/Lives-Brasil-9067C6" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-5ADBFF" />
-  <img src="https://komarev.com/ghpvc/?username=pdro-lucas&color=7692FF" alt="watching_count" />
-  <img src="https://img.shields.io/badge/Languages-Postuguese%2C%20basic%20English-FF5714" />
-</div>
+[![Twitter Badge](https://img.shields.io/badge/-@pdrolucas_dev-C7EF00?style=flat-square&labelColor=C7EF00&logo=twitter&logoColor=black&link=https://twitter.com/pdrolucas_dev)](https://twitter.com/pdrolucas_dev) 
+[![Linkedin Badge](https://img.shields.io/badge/-PedroLucas-C7EF00?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-pdrolucas.contato@gmail.com-C7EF00?style=flat-square&logo=Gmail&logoColor=black&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 
 <br/>
