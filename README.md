@@ -1,25 +1,24 @@
-<h1 align="center">Hi
+<h1>Hi
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I am Pedro
 </h1>
 
 
-<div align="center">
+<div>
+  <img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  
   Hi there,&nbsp;
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" />
-  &nbsp;i'm Pedro, and my focus is to be a programmer willing to learn, share new ideas and beat good challenges.<br />
+  &nbsp;i'm Pedro, and my focus is to be a programmer willing to learn, share new ideas and beat good challenges.
   A <b>passionate </b>self-learner <b>obsessed</b> with programming and knowledge&nbsp;
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" />
 
-  <br />
-
-  <b><i align="center">Thought : "A person who never made a mistake never tried anything new”</i></b>
+  <b><i>Thought : "A person who never made a mistake never tried anything new”</i></b>
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /><br />
-  <img  align="center" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </div>
 
 
 <!-- Shilds Info Section-->
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Age-18-C7EF00" />
   <img src="https://img.shields.io/badge/Lives-Brasil-9067C6" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-5ADBFF" />
@@ -125,3 +124,5 @@
 
   </div>
 </detail>
+
+<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gi
