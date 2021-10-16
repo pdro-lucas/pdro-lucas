@@ -38,7 +38,6 @@
 
 <details>
   <summary>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     Click to see More!
   </summary>
   
