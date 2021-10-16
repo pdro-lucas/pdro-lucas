@@ -1,6 +1,10 @@
-<h1>Hi
+<div align="center">
+  <img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/header-logo.svg" />
+</div>
+
+<h3>Hi
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I am Pedro
-</h1>
+</h3>
 
 <div>
   Hi there,
