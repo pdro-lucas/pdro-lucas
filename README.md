@@ -38,7 +38,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=5ADBFF&size=30&lines=♨︎+I+need+coffee;▷+Let's+go+again;⚛︎+Go+to+the+next+level!;✎+Learning...;✇+Robots?;☺︎+What+you+are+doing?;✦+The+universe+is+awesome)](https://git.io/typing-svg)
 
 
-  ### Here's some fun facts about me:
+  ### Here's some facts about me:
   <br/>
   
   - 😊&nbsp; Pronouns: ***He/His***<br />
