@@ -51,7 +51,6 @@
 <br/>
   
 <!---------------------------------------------------------------------------------------------------------------------------------------- Technologies and Languages Section -->
-
 ### Technologies and Languages
 
 <br/>
@@ -83,11 +82,12 @@
 
 </div>
 
+<br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git activity -->
 
+<br/><br/>
 <div align="center">
   <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30px" alt="Git" />&nbsp;
   <b>Git Activity</b>
@@ -107,7 +107,7 @@
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git trophies -->
  
-<br/><br/>
+<br/><br/><br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" />
