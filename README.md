@@ -3,8 +3,9 @@
 </h1>
 
 <div>
+  Hi there,
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" />
-  Hi there, i'm Pedro, and my focus is to be a programmer willing to learn, share new ideas and beat good challenges.
+  i'm Pedro, and my focus is to be a programmer willing to learn, share new ideas and beat good challenges.
   
   A <b>passionate </b>self-learner <b>obsessed</b> with programming and knowledge&nbsp;
 
