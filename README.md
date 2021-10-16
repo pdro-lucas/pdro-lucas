@@ -69,8 +69,8 @@
   <br/><br/>
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-  ![pdro-lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=github_dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=github_dark)](https://github.com/pdro-lucas)
+  [![pdro-lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=github_dark)](https://github.com/pdro-lucas)
 
 
   </div>
