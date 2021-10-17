@@ -19,9 +19,9 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------SOCIAL-->
 
-  [![Twitter Badge](https://img.shields.io/badge/-@pdrolucas_dev-5ADBFF?style=flat-square&labelColor=5ADBFF&logo=twitter&logoColor=black&link=https://twitter.com/pdrolucas_dev)](https://twitter.com/pdrolucas_dev) 
-  [![Linkedin Badge](https://img.shields.io/badge/-PedroLucas-5ADBFF?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-  [![Gmail Badge](https://img.shields.io/badge/-pdrolucas.contato@gmail.com-5ADBFF?style=flat-square&logo=Gmail&logoColor=black&link=mailto:pdrolucas.contato@gmail.com)](mailto:pdrolucas.contato@gmail.com)
+  [![Twitter Badge](https://img.shields.io/badge/-@pdrolucas_dev-F72585?style=flat-square&labelColor=F72585&logo=twitter&logoColor=white&link=https://twitter.com/pdrolucas_dev)](https://twitter.com/pdrolucas_dev) 
+  [![Linkedin Badge](https://img.shields.io/badge/-PedroLucas-560BAD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+  [![Gmail Badge](https://img.shields.io/badge/-pdrolucas.contato@gmail.com-3A0CA3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pdrolucas.contato@gmail.com)](mailto:pdrolucas.contato@gmail.com)
   
 </div>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
