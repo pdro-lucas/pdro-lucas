@@ -57,7 +57,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git trophies -->
   <br/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=5ADBFF&size=30&lines=♨︎+I+need+coffee;▷+Let's+go+again;⚛︎+Go+to+the+next+level!;✎+Learning...;✇+Robots?;☺︎+What+you+are+doing?;✦+The+universe+is+awesome)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=4361EE&size=30&lines=♨︎+I+need+coffee;▷+Let's+go+again;⚛︎+Go+to+the+next+level!;✎+Learning...;✇+Robots?;☺︎+What+you+are+doing?;✦+The+universe+is+awesome)](https://git.io/typing-svg)
 
   <br/>
 
