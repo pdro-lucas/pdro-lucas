@@ -20,9 +20,9 @@
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------SOCIAL-->
 
-  [![Twitter Badge](https://img.shields.io/badge/-@pdrolucas_dev-F72585?style=flat-square&labelColor=F72585&logo=twitter&logoColor=white&link=https://twitter.com/pdrolucas_dev)](https://twitter.com/pdrolucas_dev) 
-  [![Linkedin Badge](https://img.shields.io/badge/-PedroLucas-560BAD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-  [![Gmail Badge](https://img.shields.io/badge/-pdrolucas.contato@gmail.com-3A0CA3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pdrolucas.contato@gmail.com)](mailto:pdrolucas.contato@gmail.com)
+  [![Twitter Badge](https://img.shields.io/badge/-@pdrolucas_dev-F72585?labelColor=F72585&logo=twitter&logoColor=white&link=https://twitter.com/pdrolucas_dev)](https://twitter.com/pdrolucas_dev) 
+  [![Linkedin Badge](https://img.shields.io/badge/-PedroLucas-560BAD?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+  [![Gmail Badge](https://img.shields.io/badge/-pdrolucas.contato@gmail.com-3A0CA3?logo=Gmail&logoColor=white&link=mailto:pdrolucas.contato@gmail.com)](mailto:pdrolucas.contato@gmail.com)
   
 </div>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
@@ -68,16 +68,19 @@
   <br/>
   
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------- ABOUT ME SECTION -->
-
-  ### Here's some facts about me:
+  
+  ### Here's some facts about me: <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
   
   <br/>
+  <img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
   
   - 😊&nbsp; Pronouns: ***He/His***<br />
+  - 💕&nbsp; My favority language is **Python**<br/>
+  - 🎉&nbsp; I'm **18 years** old<br/>
+  - 🌈&nbsp; Fun fact : I'm very **perfectionist** and **creative**<br />
+  - 🇧🇷&nbsp; I'm from **Brasil**<br/>
   - 📚&nbsp; I’m currently learning about **Machine Learning**<br />
-  - 🔍&nbsp; I’m looking to collaborate with any **Open - Source data science projects**<br />
-  - 👻&nbsp; Ask from me anything you want, If I am alive I will answer within seconds<br />
-  - 🌈&nbsp; Fun fact : *I'm very perfectionist and creative*<br />
+  - 🛸&nbsp; I love **looking** at **the sky**
 
   <br/>
   
