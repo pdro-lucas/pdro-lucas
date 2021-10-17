@@ -21,7 +21,7 @@
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------SOCIAL-->
 
   [![Twitter Badge](https://img.shields.io/badge/-@pdrolucas_dev-F72585?labelColor=F72585&logo=twitter&logoColor=white&link=https://twitter.com/pdrolucas_dev)](https://twitter.com/pdrolucas_dev) 
-  [![Linkedin Badge](https://img.shields.io/badge/-pedro-lucas-560BAD?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-741538223/)](https://www.linkedin.com/in/pedro-lucas-741538223/) 
+  [![Linkedin Badge](https://img.shields.io/badge/-pedro_lucas-560BAD?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-741538223)](https://www.linkedin.com/in/pedro-lucas-741538223/) 
   [![Gmail Badge](https://img.shields.io/badge/-pdrolucas.contato@gmail.com-3A0CA3?logo=Gmail&logoColor=white&link=mailto:pdrolucas.contato@gmail.com)](mailto:pdrolucas.contato@gmail.com)
   
 </div>
