@@ -1,48 +1,75 @@
+<!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------INTRO-->
+
 <div align="center">
   <img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/header-logo.svg" />
 </div>
 
-<h3>Hi
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<h3 align="center">Hi
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I am Pedro
 </h3>
 
-<div>
-  Hi there,
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" />
-  i'm Pedro, and my focus is to be a programmer willing to learn, share new ideas and beat good challenges.
-  
-  A <b>passionate </b>self-learner <b>obsessed</b> with programming and knowledge&nbsp;
+<div align="center">
+  Hi there,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" />
+  i'm Pedro, and my focus is to be a programmer willing to learn, share new ideas and beat good challenges.<br/>
+  A <b>passionate</b> self-learner <b>obsessed</b> with programming and knowledge
 
-  <b><i>Thought : "A person who never made a mistake never tried anything new”</i></b>
+  ***Thought : “A person who never made a mistake never tried anything new”***
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------SOCIAL-->
+
+  [![Twitter Badge](https://img.shields.io/badge/-@pdrolucas_dev-5ADBFF?style=flat-square&labelColor=5ADBFF&logo=twitter&logoColor=black&link=https://twitter.com/pdrolucas_dev)](https://twitter.com/pdrolucas_dev) 
+  [![Linkedin Badge](https://img.shields.io/badge/-PedroLucas-5ADBFF?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+  [![Gmail Badge](https://img.shields.io/badge/-pdrolucas.contato@gmail.com-5ADBFF?style=flat-square&logo=Gmail&logoColor=black&link=mailto:pdrolucas.contato@gmail.com)](mailto:pdrolucas.contato@gmail.com)
+  
+</div>
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+<br/><br/>
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git activity -->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30px" alt="Git" />&nbsp;
+  <b>Git Activity</b>
 </div>
 
-
-<!-- Shilds Info Section-->
-[![Twitter Badge](https://img.shields.io/badge/-@pdrolucas_dev-5ADBFF?style=flat-square&labelColor=5ADBFF&logo=twitter&logoColor=black&link=https://twitter.com/pdrolucas_dev)](https://twitter.com/pdrolucas_dev) 
-[![Linkedin Badge](https://img.shields.io/badge/-PedroLucas-5ADBFF?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-pdrolucas.contato@gmail.com-5ADBFF?style=flat-square&logo=Gmail&logoColor=black&link=mailto:pdrolucas.contato@gmail.com)](mailto:pdrolucas.contato@gmail.com)
-
-
 <br/>
 
+<div align="center">
+    
+  <br/>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=github_dark)](https://github.com/pdro-lucas)
+  [![pdro-lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=github_dark)](https://github.com/pdro-lucas)
 
+</div>
 
-<br/>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------MORE INFO-->
 
 <details>
   <summary>
     Click to see More!
   </summary>
-  
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git trophies -->
   <br/>
   
-  <!-- About me Section -->
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=5ADBFF&size=30&lines=♨︎+I+need+coffee;▷+Let's+go+again;⚛︎+Go+to+the+next+level!;✎+Learning...;✇+Robots?;☺︎+What+you+are+doing?;✦+The+universe+is+awesome)](https://git.io/typing-svg)
 
+  <br/>
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" />
+  </div>
+
+  <br/>
+  
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------- ABOUT ME SECTION -->
 
   ### Here's some facts about me:
+  
   <br/>
   
   - 😊&nbsp; Pronouns: ***He/His***<br />
@@ -51,10 +78,10 @@
   - 👻&nbsp; Ask from me anything you want, If I am alive I will answer within seconds<br />
   - 🌈&nbsp; Fun fact : *I'm very perfectionist and creative*<br />
 
-
-<br/>
+  <br/>
   
 <!---------------------------------------------------------------------------------------------------------------------------------------- Technologies and Languages Section -->
+
 ### Languages and tools
 
 <br/>
@@ -89,34 +116,5 @@
 <br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git activity -->
-
-<br/><br/>
-<div align="center">
-  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30px" alt="Git" />&nbsp;
-  <b>Git Activity</b>
-</div>
-<br/>
-
-<div align="center">
-    
-  <br/>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=github_dark)](https://github.com/pdro-lucas)
-  [![pdro-lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=github_dark)](https://github.com/pdro-lucas)
-
-</div>
-
-<br/>
-
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git trophies -->
- 
-<br/><br/><br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" />
-</div>
-  
-<br/>
 
 </detail>
