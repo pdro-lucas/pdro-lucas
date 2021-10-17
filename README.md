@@ -41,8 +41,8 @@
     
   <br/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=github_dark)](https://github.com/pdro-lucas)
-  [![pdro-lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=github_dark)](https://github.com/pdro-lucas)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=outrun)](https://github.com/pdro-lucas)
+  [![pdro-lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=outrun)](https://github.com/pdro-lucas)
 
 </div>
 
@@ -61,7 +61,7 @@
   <br/>
 
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
   </div>
 
   <br/>
