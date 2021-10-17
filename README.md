@@ -11,8 +11,9 @@
 </h3>
 
 <div align="center">
-  Hi there,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" />
-  i'm Pedro, and my focus is to be a programmer willing to learn, share new ideas and beat good challenges.<br/>
+  And my focus is to be a programmer 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" />
+  willing to learn, share new ideas and beat good challenges.<br/>
   A <b>passionate</b> self-learner <b>obsessed</b> with programming and knowledge
 
   ***Thought : “A person who never made a mistake never tried anything new”***
