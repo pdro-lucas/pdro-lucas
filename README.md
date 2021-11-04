@@ -79,7 +79,7 @@
   - 🎉&nbsp; I'm **18 years** old<br/>
   - 🌈&nbsp; Fun fact : I'm very **perfectionist** and **creative**<br />
   - 🇧🇷&nbsp; I'm from **Brasil**<br/>
-  - 📚&nbsp; I’m currently learning about **Machine Learning**<br />
+  - 📚&nbsp; I’m currently learning about **Machine Learning and Web Development**<br />
   - 🛸&nbsp; I love **looking** at **the sky**
 
   <br/>
