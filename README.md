@@ -41,12 +41,11 @@
 <div align="center">
     
   <br/>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=outrun)](https://github.com/pdro-lucas)
-  [![pdro-lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=outrun)](https://github.com/pdro-lucas)
+  <img width=410px src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=outrun" />
+  <img width=410px src="https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=outrun" />
 
 </div>
-
+<br/><br/>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------MORE INFO-->
 
 <details>
