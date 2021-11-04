@@ -38,11 +38,11 @@
 
 <br/>
 
-<div>
+<div align="center">
     
   <br/>
-  <img width=481px src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=outrun" />
-  <img width=481px src="https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=outrun" />
+  <img width=450px src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=outrun" />
+  <img width=450px src="https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=outrun" />
 
 </div>
 <br/><br/>
