@@ -40,32 +40,11 @@
 
 <div align="center">
     
-  <br/>
-  <img width=450px src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=outrun" />
-  <img width=450px src="https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&theme=outrun" />
+  <img width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=outrun" />
 
 </div>
 <br/><br/>
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------MORE INFO-->
 
-<details>
-  <summary>
-    Click to see More!
-  </summary>
-
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git trophies -->
-  <br/>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=4361EE&size=30&lines=♨︎+I+need+coffee;▷+Let's+go+again;⚛︎+Go+to+the+next+level!;✎+Learning...;✇+Robots?;☺︎+What+you+are+doing?;✦+The+universe+is+awesome)](https://git.io/typing-svg)
-
-  <br/>
-
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
-  </div>
-
-  <br/>
-  
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------- ABOUT ME SECTION -->
   
   ### Here's some facts about me: <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
@@ -115,6 +94,27 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?&logo=Insomnia&logoColor=white)
 
 </div>
+
+<br />
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------MORE INFO-->
+
+<details>
+  <summary>
+    Click to see More!
+  </summary>
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git trophies -->
+  <br/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=4361EE&size=30&lines=♨︎+I+need+coffee;▷+Let's+go+again;⚛︎+Go+to+the+next+level!;✎+Learning...;✇+Robots?;☺︎+What+you+are+doing?;✦+The+universe+is+awesome)](https://git.io/typing-svg)
+
+  <br/>
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
+  </div>
+
+  <br/>
 
 <br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
