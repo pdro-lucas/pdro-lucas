@@ -1,8 +1,4 @@
 <!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------INTRO-->
-<div align="center">
-  <img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/header-logo.svg" />
-</div>
-
 <h3 align="center">Hi
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I am Pedro
 </h3>
@@ -46,9 +42,7 @@
   
   ### Here's some facts about me: <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
   
-  <br/>
-  <img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-  
+  <br/>  
   - 😊&nbsp; Pronouns: ***He/His***<br />
   - 💕&nbsp; My favority language is **Python**<br/>
   - 🎉&nbsp; I'm **18 years** old<br/>
