@@ -43,6 +43,7 @@
   ### Here's some facts about me: <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
   
   <br/>  
+  
   - 😊&nbsp; Pronouns: ***He/His***<br />
   - 💕&nbsp; My favority language is **Python**<br/>
   - 🎉&nbsp; I'm **18 years** old<br/>
