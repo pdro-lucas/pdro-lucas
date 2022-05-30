@@ -1,4 +1,8 @@
 <!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------INTRO-->
+<div align="center">
+  <img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/yy3.gif" width="300" />
+</div>
+
 <h3 align="center">Hi
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I am Pedro
 </h3>
@@ -18,45 +22,9 @@
   [![Gmail Badge](https://img.shields.io/badge/-pdrolucas.contato@gmail.com-3A0CA3?logo=Gmail&logoColor=white&link=mailto:pdrolucas.contato@gmail.com)](mailto:pdrolucas.contato@gmail.com)
   
 </div>
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
-
-<br/>
-
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git activity -->
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30px" alt="Git" />&nbsp;
-  <b>Git Activity</b>
-</div>
-
-<br/>
-
-<div align="center">
-    
-  <img width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&theme=outrun" />
-
-</div>
-<br/><br/>
-
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------- ABOUT ME SECTION -->
-  
-  ### Here's some facts about me: <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-  
-  <br/>  
-  
-  - 😊&nbsp; Pronouns: ***He/His***<br />
-  - 💕&nbsp; My favority language is **Python**<br/>
-  - 🎉&nbsp; I'm **18 years** old<br/>
-  - 🌈&nbsp; Fun fact : I'm very **perfectionist** and **creative**<br />
-  - 🇧🇷&nbsp; I'm from **Brasil**<br/>
-  - 📚&nbsp; I’m currently learning about **Machine Learning and Web Development**<br />
-  - 🛸&nbsp; I love **looking** at **the sky**
-
-  <br/>
   
 <!---------------------------------------------------------------------------------------------------------------------------------------- Technologies and Languages Section -->
-
-### Languages and tools
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <br/>
 
@@ -88,28 +56,9 @@
 </div>
 
 <br />
+
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------------MORE INFO-->
-
-<details>
-  <summary>
-    Click to see More!
-  </summary>
-
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------- Git trophies -->
-  <br/>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=4361EE&size=30&lines=♨︎+I+need+coffee;▷+Let's+go+again;⚛︎+Go+to+the+next+level!;✎+Learning...;✇+Robots?;☺︎+What+you+are+doing?;✦+The+universe+is+awesome)](https://git.io/typing-svg)
-
-  <br/>
-
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=radical&margin-w=15&no-frame=true&no-bg=true" />
-  </div>
-
-  <br/>
-
 <br/>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-</detail>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=darkhub&margin-w=15&no-frame=true&no-bg=true" width="100%"/>
+</div>
