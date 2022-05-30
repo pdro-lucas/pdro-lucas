@@ -56,9 +56,3 @@
 </div>
 
 <br />
-
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------MORE INFO-->
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pdro-lucas&theme=darkhub&margin-w=15&no-frame=true&no-bg=true" width="100%"/>
-</div>
