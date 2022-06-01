@@ -4,12 +4,12 @@
 </div>
 
 <h3 align="center">Hi
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I am Pedro
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />, I am Pedro
 </h3>
 
 <div align="center">
   And my focus is to be a programmer 
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" />
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30" />
   willing to learn, share new ideas and beat good challenges.<br/>
   A <b>passionate</b> self-learner <b>obsessed</b> with programming and knowledge
 
