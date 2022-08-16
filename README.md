@@ -1,6 +1,6 @@
 <!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------INTRO-->
 <div align="center">
-  <img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/14SE.gif" width="200" />
+  <img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/yy3.gif" width="200" />
 </div>
 
 <h3 align="center">Hi
