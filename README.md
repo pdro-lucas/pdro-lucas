@@ -46,6 +46,10 @@
 </ul>  
 
 <p align="left">
+  📚 Learning: <strong>Currently, I am learning:</strong> 
+  tRPC, NestJS, Test, Elixir, TDD, SOLID, Clean Architeture, POO, UI, UX, English
+</p>
+<p align="left">
   💼 Tools: <strong>Figma, VScode, Photoshop, illustrator, After Effects, Spline, Github, Vercel</strong>
 </p>
 
