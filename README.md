@@ -10,9 +10,9 @@
 
 <br/>
 
-<p align="left"> 
-  And I'm passionate about programming.
-  As a developer, I am excited to be part of the dynamic and ever-evolving world of technology</br>and I am committed to making a positive impact through my work.
+<p align="center"> 
+  And I'm passionate about programming. I'm currently studying Computer Science at Cruzeiro do Sul while also working as a junior developer and designer.
+  </br>As a developer, I am excited to be part of the dynamic and ever-evolving world of technology and I am committed to making a positive impact through my work.
 </p>
 
 
