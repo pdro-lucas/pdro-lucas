@@ -15,11 +15,6 @@
   As a developer, I am excited to be part of the dynamic and ever-evolving world of technology</br>and I am committed to making a positive impact through my work.
 </p>
 
-<div align="center">
-  <img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/yy3.gif" width="200" />
-</div>
-
-</br>
 
 <p align="left">
   🦄 Languages: <strong>I have experience with:</strong>
