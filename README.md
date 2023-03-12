@@ -20,7 +20,7 @@
   🦄 Languages: <strong>I have experience with:</strong>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/yy3.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <ul align="left">
   <li>🌐 JavaScript</li>
