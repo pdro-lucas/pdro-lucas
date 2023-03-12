@@ -1,8 +1,3 @@
-<!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------INTRO-->
-<div align="center">
-  <img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/yy3.gif" width="200" />
-</div>
-
 <h3 align="center">
   Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
   My name is Pedro Lucas  
@@ -11,12 +6,18 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
+
+
 <br/>
 
 <p align="center"> 
   And I'm passionate about programming.
   As a developer, I am excited to be part of the dynamic and ever-evolving world of technology</br>and I am committed to making a positive impact through my work.
 </p>
+
+<div align="center">
+  <img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/yy3.gif" width="200" />
+</div>
 
 </br>
 
