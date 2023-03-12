@@ -15,12 +15,11 @@
   As a developer, I am excited to be part of the dynamic and ever-evolving world of technology and I am committed to making a positive impact through my work.
 </p>
 
+<img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/yy3.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
   🦄 Languages: <strong>I have experience with:</strong>
 </p>
-
-<img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/yy3.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <ul align="left">
   <li>🌐 JavaScript</li>
