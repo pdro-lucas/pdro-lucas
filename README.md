@@ -56,6 +56,10 @@
   💌 Feel free to explore my repositories and contact me if you have any questions or collaboration opportunities.: ⤵️
 </p>
 
+<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=cherry_ramatis">
+  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=devpdro" width="450" height="195" alt="Progresso 100 dias de codigo">
+</a>
+
 <p align="left">
   <a href="mailto:pdrolucas.contato@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pdrolucas.contato@gmail.com" /></a>
