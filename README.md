@@ -7,42 +7,14 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
 
-
 <br/>
+
+<img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/YTup.gif" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   And I'm passionate about programming. I'm currently studying Computer Science at Cruzeiro do Sul while also working as a junior developer and designer.
   As a developer, I am excited to be part of the dynamic and ever-evolving world of technology and I am committed to making a positive impact through my work.
 </p>
-
-<img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/yy3.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<p align="left">
-  🦄 Languages: <strong>I have experience with:</strong>
-</p>
-
-<ul align="left">
-  <li>🌐 JavaScript</li>
-  <li>💻 TypeScript</li>
-  <li>🐍 Python</li>
-  <li>🎨 HTML</li>
-  <li>🎨 CSS</li>
-</ul>  
-
-
-<p align="left">
-  🚀 Libraries and Frameworks: <strong>I enjoy working with:</strong>
-</p>
-
-<ul align="left">
-  <li>⚛️ ReactJS</li>
-  <li>⚛️ NextJS</li>
-  <li>🎨 Tailwind CSS</li>
-  <li>🎨 Radix UI</li>
-  <li>💻 Mantine</li>
-  <li>🚀 Express</li>
-  <li>🚀 Fastify</li>
-</ul>  
 
 <p align="left">
   📚 Learning: <strong>Currently, I am learning:</strong> 
@@ -65,5 +37,13 @@
 
   <a href="https://instagram.com/pdroluccax?igshid=ZDdkNTZiNTM=" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/pdroluccax?igshid=ZDdkNTZiNTM="/></a>
-</p>  
+</p> 
 
+<details open>
+  <summary>Click to view my code activity in last 30 days</summary>
+
+  <div align='center'>
+    <img src="https://wakatime.com/share/@pdrolucas/264c1ac6-5e2a-4dd2-9b52-ffddc49d8e8c.svg" height="600"/>
+  </div>
+ 
+</details>
