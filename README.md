@@ -9,8 +9,6 @@
 
 <br/>
 
-<img src="https://github.com/pdro-lucas/pdro-lucas/blob/main/src/assets/gifs/YTup.gif" width="300px" align="right" alt="Computador iuriCode">
-
 <p align="left"> 
   And I'm passionate about programming. I'm currently studying Computer Science at Cruzeiro do Sul while also working as a junior developer and designer.
   As a developer, I am excited to be part of the dynamic and ever-evolving world of technology and I am committed to making a positive impact through my work.
