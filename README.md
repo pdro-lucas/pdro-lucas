@@ -1,30 +1,28 @@
-<h3 align="center">
-  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
-  My name is Pedro Lucas  
-</h3>
-
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+   <img width=100% src=https://capsule-render.vercel.app/api?type=blur&height=230&color=gradient&text=Hello&section=header&textBg=false&animation=twinkling&fontSize=40 />
 </div>
 
-<br/>
+<h3 align="center">
+  My name is Pedro Lucas
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20" />
+</h3>
+
+<div align="center"> 
+  <strong>Junior Web Developer | Computer Science Student</strong>
+</div>
+
+</br>
 
 <p align="left"> 
-  And I'm passionate about programming. I'm currently studying Computer Science at Cruzeiro do Sul while also working as a junior developer and designer.
-  As a developer, I am excited to be part of the dynamic and ever-evolving world of technology and I am committed to making a positive impact through my work.
+  I work in web development with a primary focus on the JavaScript ecosystem. My experience involves bridging the gap between design and programming to build functional, well-structured interfaces. I am currently working as a Junior Developer while pursuing a degree in Computer Science.
 </p>
 
-<p align="left">
-  📚 Learning: <strong>Currently, I am learning:</strong> 
-  tRPC, NestJS, Test, Elixir, TDD, SOLID, Clean Architeture, POO, UI, UX, English
-</p>
-<p align="left">
-  💼 Tools: <strong>Figma, VScode, Photoshop, illustrator, After Effects, Spline, Github, Vercel</strong>
-</p>
+## Skills & Technologies
+* **Development:** JavaScript/TypeScript, NodeJS, PHP, React, Laravel
+* **Tools & Infrastructure:** Git, Docker, Figma
+* **Areas of Interest:** DevOps, Artificial Intelligence, and Software Architecture
 
-<p align="left">
-  💌 Feel free to explore my repositories and contact me if you have any questions or collaboration opportunities.: ⤵️
-</p>
+## Contact
 
 <p align="left">
   <a href="mailto:pdrolucas.contato@gmail.com" alt="Gmail">
@@ -37,11 +35,3 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/pdroluccax?igshid=ZDdkNTZiNTM="/></a>
 </p> 
 
-<details open>
-  <summary>Click to view my code activity in last 30 days</summary>
-
-  <div align='center'>
-    <img src="https://wakatime.com/share/@pdrolucas/264c1ac6-5e2a-4dd2-9b52-ffddc49d8e8c.svg" height="600"/>
-  </div>
- 
-</details>
