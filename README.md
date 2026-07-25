@@ -1,37 +1,130 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=wave&height=120&color=gradient&textBg=false&animation=twinkling&fontSize=40 />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=wave&height=120&color=gradient&textBg=false&animation=twinkling&fontSize=40"
+    alt="Header"
+  />
 </div>
 
 <h3 align="center">
-  My name is Pedro Lucas
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20" />
+  Hi, I'm Pedro Lucas
+  <img
+    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
+    width="20"
+    alt="Waving hand"
+  />
 </h3>
 
-<div align="center"> 
-  <strong>Junior Web Developer | Computer Science Student</strong>
+<div align="center">
+  <strong>Mid-Level Full Stack Developer | React, Laravel, Cloud & AI</strong>
 </div>
 
-</br>
+<br />
 
-<p align="left"> 
-  I work in web development with a primary focus on the JavaScript ecosystem. My experience involves bridging the gap between design and programming to build functional, well-structured interfaces. I am currently working as a Junior Developer while pursuing a degree in Computer Science.
+<p align="center">
+  I am a Full Stack Developer focused on building modern, maintainable, and
+  reliable web applications using React, Laravel, PHP, JavaScript, and TypeScript.
 </p>
 
+<p align="center">
+  I currently work on the development of internal platforms and digital products,
+  using artificial intelligence to support software design, implementation,
+  documentation, testing, and delivery.
+</p>
+
+## About Me
+
+I work across frontend and backend development, from user interfaces and APIs
+to authentication, permissions, infrastructure, automated testing, and deployment.
+
+My main stack includes React, TypeScript, JavaScript, PHP, and Laravel. I also
+work with Docker, Linux, GitHub Actions, CI/CD pipelines, and modern software
+engineering practices.
+
+I am currently completing my Bachelor's degree in Computer Science and expanding
+my knowledge in cloud computing, DevOps, distributed systems, software
+architecture, application security, observability, automated testing, and
+AI-powered application development.
+
 ## Skills & Technologies
-* **Development:** JavaScript/TypeScript, NodeJS, PHP, React, Laravel
-* **Tools & Infrastructure:** Git, Docker, Figma
-* **Areas of Interest:** DevOps, Artificial Intelligence, and Software Architecture
+
+### Frontend
+
+* React
+* TypeScript
+* JavaScript
+* HTML
+* CSS
+* Tailwind CSS
+
+### Backend
+
+* PHP
+* Laravel
+* Node.js
+* REST APIs
+* SQL
+* Python
+
+### Cloud, DevOps & Infrastructure
+
+* Docker
+* Linux
+* Git and GitHub
+* GitHub Actions
+* CI/CD
+* Cloud Computing
+* Kubernetes fundamentals
+* Microservices and Serverless fundamentals
+
+### Software Engineering
+
+* Software Architecture
+* Object-Oriented Programming
+* Automated Testing
+* Test-Driven Development
+* Behavior-Driven Development
+* Agile Development and Scrum
+* Application Security
+* Monitoring and Observability
+
+### Artificial Intelligence
+
+* AI-assisted software development
+* AI application development with Python
+* Automation and intelligent workflows
+* Large Language Models and AI agents
+
+## Currently Learning
+
+* Cloud Computing and Hybrid Multi-cloud
+* Containers, Kubernetes, and OpenShift
+* Microservices and Serverless Applications
+* Test and Behavior Driven Development
+* Application Security
+* Monitoring and Observability
+* Python for Data Science and AI
+* AI Applications with Python and Flask
+
+## Areas of Interest
+
+* Full Stack Development
+* Software Engineering
+* Software Architecture
+* Artificial Intelligence
+* Cloud Computing
+* DevOps and Platform Engineering
+* Application Security
+* Automated Testing
+* Developer Experience and Automation
 
 ## Contact
 
 <p align="left">
-  <a href="mailto:pdrolucas.contato@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pdrolucas.contato@gmail.com" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5531983279035" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531983279035"/></a>
-
-  <a href="https://instagram.com/pdroluccax?igshid=ZDdkNTZiNTM=" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/pdroluccax?igshid=ZDdkNTZiNTM="/></a>
-</p> 
-
+  <a href="mailto:pdrolucas.contato@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+</p>
