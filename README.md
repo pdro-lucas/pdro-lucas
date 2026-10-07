@@ -1,23 +1,15 @@
-<p align="center">
-  <img src="./header-logo.svg" width="360" alt="Pedro Lucas" />
-</p>
+```
+██████╗ ███████╗██████╗ ██████╗  ██████╗
+██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗
+██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║
+██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║
+██║     ███████╗██████╔╝██║  ██║╚██████╔╝
+╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 
-<h3 align="center">Full Stack Software Engineer</h3>
-
-<p align="center">
-  Building reliable web products, APIs, integrations and AI-powered developer experiences.
-</p>
-
-<p align="center">
-  <a href="mailto:pdrolucas.contato@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pdrolucas.contato%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/pdro-lucas?tab=followers">
-    <img src="https://img.shields.io/github/followers/pdro-lucas?style=flat-square&label=Followers&color=181717" alt="GitHub followers" />
-  </a>
-</p>
-
----
+> Pedro Lucas
+> Full Stack Software Engineer
+> Building reliable web products, APIs, integrations and AI-powered developer experiences.
+```
 
 ## About
 
