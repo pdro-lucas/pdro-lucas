@@ -38,11 +38,36 @@ I'm currently completing a Bachelor's degree in Computer Science and deepening m
 
 ## Tech stack
 
+### Core stack
+
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,nodejs,python,tailwind,docker,linux,git,githubactions,mysql,postgres&perline=14"
-    alt="Technology stack"
+    src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,nodejs,python,html,css,tailwind,vite,mysql,postgres,docker,linux,git,githubactions&perline=17"
+    alt="Core technology stack"
   />
+</p>
+
+### Tools & technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=black" alt="Filament" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-181717?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Webhooks-181717?style=flat-square" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/OAuth_2.0_%2F_OIDC-181717?style=flat-square" alt="OAuth 2.0 and OpenID Connect" />
+  <img src="https://img.shields.io/badge/RBAC-181717?style=flat-square" alt="RBAC" />
+  <img src="https://img.shields.io/badge/SSO-181717?style=flat-square" alt="Single Sign-On" />
+  <img src="https://img.shields.io/badge/LLM_Integrations-181717?style=flat-square" alt="LLM integrations" />
+  <img src="https://img.shields.io/badge/AI_Agents-181717?style=flat-square" alt="AI agents" />
 </p>
 
 ## Featured projects
