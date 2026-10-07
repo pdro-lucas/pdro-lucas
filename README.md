@@ -103,9 +103,8 @@ I'm currently completing a Bachelor's degree in Computer Science and deepening m
 
 <p align="center">
   <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pdro-lucas&theme=github-compact&hide_border=true&area=true"
-    alt="Pedro Lucas contribution activity graph"
+    src="https://streak-stats.demolab.com?user=pdro-lucas&theme=transparent&hide_border=true"
+    alt="Pedro Lucas GitHub streak"
   />
 </p>
 
