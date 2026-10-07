@@ -1,130 +1,120 @@
+<p align="center">
+  <img src="./header-logo.svg" width="360" alt="Pedro Lucas" />
+</p>
+
+<h3 align="center">Full Stack Software Engineer</h3>
+
+<p align="center">
+  Building reliable web products, APIs, integrations and AI-powered developer experiences.
+</p>
+
+<p align="center">
+  <a href="mailto:pdrolucas.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pdrolucas.contato%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/pdro-lucas?tab=followers">
+    <img src="https://img.shields.io/github/followers/pdro-lucas?style=flat-square&label=Followers&color=181717" alt="GitHub followers" />
+  </a>
+</p>
+
+---
+
+## About
+
+I'm a full stack software engineer focused on turning product requirements into maintainable software — from interfaces and APIs to authentication, permissions, integrations, infrastructure and delivery.
+
+My strongest stack is **Laravel / PHP** on the backend and **React / TypeScript** on the frontend. I also work with Docker, Linux, relational databases, CI/CD and AI-assisted engineering workflows.
+
+I'm currently completing a Bachelor's degree in Computer Science and deepening my knowledge of cloud computing, software architecture, application security, observability, distributed systems and AI engineering.
+
+## Engineering focus
+
+- **Full stack product development** — building complete web applications from UI to database.
+- **APIs & integrations** — REST APIs, webhooks, third-party services and automation.
+- **Authentication & authorization** — RBAC, permissions and multi-application access patterns.
+- **Developer experience** — reusable packages, internal tooling, CI/CD and automation.
+- **AI-powered software** — LLM integrations, intelligent workflows and AI-assisted products.
+- **Infrastructure** — Docker, Linux, deployment pipelines and production troubleshooting.
+
+## Tech stack
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,nodejs,python,tailwind,docker,linux,git,githubactions,mysql,postgres&perline=14"
+    alt="Technology stack"
+  />
+</p>
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pdro-lucas/filament-ai-writer">Filament AI Writer</a></h3>
+      <p>
+        Reusable Filament actions for AI-powered text generation, with support for
+        Anthropic Claude, OpenAI and Google Gemini.
+      </p>
+      <p><strong>PHP · Laravel · Filament · AI</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pdro-lucas/webhook-inspector">Webhook Inspector</a></h3>
+      <p>
+        Full-stack tool for capturing, inspecting and debugging webhook requests,
+        including headers, payloads, metadata and persistence.
+      </p>
+      <p><strong>React · TypeScript · Fastify · PostgreSQL · Drizzle</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pdro-lucas/minimal-firefox">Minimal Firefox</a></h3>
+      <p>
+        A custom Firefox interface focused on a clean, minimal browsing experience
+        built with CSS customization.
+      </p>
+      <p><strong>CSS · Firefox UI customization</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/pdro-lucas/github-blog">GitHub Blog</a></h3>
+      <p>
+        A React application that turns GitHub issues into a blog-like reading
+        experience while consuming the GitHub API.
+      </p>
+      <p><strong>React · TypeScript · GitHub API</strong></p>
+    </td>
+  </tr>
+</table>
+
+## GitHub activity
+
 <div align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=pdro-lucas&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github"
+    alt="Pedro Lucas GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-lucas&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    alt="Pedro Lucas most used languages"
+  />
+</div>
+
+<p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=wave&height=120&color=gradient&textBg=false&animation=twinkling&fontSize=40"
-    alt="Header"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pdro-lucas&theme=github-compact&hide_border=true&area=true"
+    alt="Pedro Lucas contribution activity graph"
   />
-</div>
-
-<h3 align="center">
-  Hi, I'm Pedro Lucas
-  <img
-    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
-    width="20"
-    alt="Waving hand"
-  />
-</h3>
-
-<div align="center">
-  <strong>Mid-Level Full Stack Developer | React, Laravel, Cloud & AI</strong>
-</div>
-
-<br />
-
-<p align="center">
-  I am a Full Stack Developer focused on building modern, maintainable, and
-  reliable web applications using React, Laravel, PHP, JavaScript, and TypeScript.
 </p>
 
+## What I'm exploring
+
+Right now I'm especially interested in **software architecture**, **cloud & DevOps**, **developer tooling**, **AI agents**, **application security** and building systems that are easier to maintain, operate and evolve.
+
+---
+
 <p align="center">
-  I currently work on the development of internal platforms and digital products,
-  using artificial intelligence to support software design, implementation,
-  documentation, testing, and delivery.
-</p>
-
-## About Me
-
-I work across frontend and backend development, from user interfaces and APIs
-to authentication, permissions, infrastructure, automated testing, and deployment.
-
-My main stack includes React, TypeScript, JavaScript, PHP, and Laravel. I also
-work with Docker, Linux, GitHub Actions, CI/CD pipelines, and modern software
-engineering practices.
-
-I am currently completing my Bachelor's degree in Computer Science and expanding
-my knowledge in cloud computing, DevOps, distributed systems, software
-architecture, application security, observability, automated testing, and
-AI-powered application development.
-
-## Skills & Technologies
-
-### Frontend
-
-* React
-* TypeScript
-* JavaScript
-* HTML
-* CSS
-* Tailwind CSS
-
-### Backend
-
-* PHP
-* Laravel
-* Node.js
-* REST APIs
-* SQL
-* Python
-
-### Cloud, DevOps & Infrastructure
-
-* Docker
-* Linux
-* Git and GitHub
-* GitHub Actions
-* CI/CD
-* Cloud Computing
-* Kubernetes fundamentals
-* Microservices and Serverless fundamentals
-
-### Software Engineering
-
-* Software Architecture
-* Object-Oriented Programming
-* Automated Testing
-* Test-Driven Development
-* Behavior-Driven Development
-* Agile Development and Scrum
-* Application Security
-* Monitoring and Observability
-
-### Artificial Intelligence
-
-* AI-assisted software development
-* AI application development with Python
-* Automation and intelligent workflows
-* Large Language Models and AI agents
-
-## Currently Learning
-
-* Cloud Computing and Hybrid Multi-cloud
-* Containers, Kubernetes, and OpenShift
-* Microservices and Serverless Applications
-* Test and Behavior Driven Development
-* Application Security
-* Monitoring and Observability
-* Python for Data Science and AI
-* AI Applications with Python and Flask
-
-## Areas of Interest
-
-* Full Stack Development
-* Software Engineering
-* Software Architecture
-* Artificial Intelligence
-* Cloud Computing
-* DevOps and Platform Engineering
-* Application Security
-* Automated Testing
-* Developer Experience and Automation
-
-## Contact
-
-<p align="left">
-  <a href="mailto:pdrolucas.contato@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
+  <sub>Always building, learning and improving the systems behind the product.</sub>
 </p>
