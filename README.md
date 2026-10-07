@@ -21,7 +21,7 @@
 
 ## About
 
-I'm a full stack software engineer focused on turning product requirements into maintainable software — from interfaces and APIs to authentication, permissions, integrations, infrastructure and delivery.
+I'm a full stack software engineer focused on turning product requirements into maintainable software.
 
 My strongest stack is **Laravel / PHP** on the backend and **React / TypeScript** on the frontend. I also work with Docker, Linux, relational databases, CI/CD and AI-assisted engineering workflows.
 
